@@ -10,8 +10,6 @@ The bot helps users **search and retrieve medical knowledge** from custom medica
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
-> Replace `YOUR_VIDEO_ID_HERE` with your actual YouTube video ID.
-
 ---
 
 ## 🖼 Bot Screenshot
@@ -19,7 +17,7 @@ Here’s how the bot interface looks in action:
 
 ![Medical Bot Screenshot](assets/bot-screenshot.png)
 
-> Your screenshot should be saved inside the `assets` folder as **`bot-screenshot.png`**.
+
 
 ---
 
@@ -61,11 +59,15 @@ Researchers 🔬 – Summarize and extract useful data from large documents.
 
 AI Enthusiasts 🤖 – Learn how to build and deploy advanced AI-powered bots.
 
+---
+
 ## Data Used
 
 The bot is powered by custom medical PDFs, such as:
 
 The Gale Encyclopedia of Medicine (Second Edition)
+
+---
 
 ## Future Enhancements
 
@@ -77,11 +79,15 @@ The Gale Encyclopedia of Medicine (Second Edition)
 
 ✅ Multi-user chat sessions with memory.
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
 See the LICENSE
  file for details.
+
+ ---
 
 ## 🌟 Acknowledgments
 
@@ -100,6 +106,8 @@ Streamlit
 FAISS
  – Vector similarity search.
 
+ ---
+
 ## 📝 Author
 
 Developed by Adeeda Mukhtar
@@ -108,3 +116,4 @@ Developed by Adeeda Mukhtar
 
 
 🎥 YouTube: https://www.youtube.com/@AdeedaMukhtar/videos
+---
