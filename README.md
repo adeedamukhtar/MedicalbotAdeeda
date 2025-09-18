@@ -8,7 +8,8 @@ The bot helps users **search and retrieve medical knowledge** from custom medica
 ## 📽 Demo Video
 🎥 **Watch the demo on YouTube:**
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the video]https://youtu.be/krhFUpgNack
+
 
 ---
 
